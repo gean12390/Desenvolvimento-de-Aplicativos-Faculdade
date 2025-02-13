@@ -3,7 +3,7 @@ fun main(){
     val u = "Silva";
     val n = "$f $u";
 
-    val g = "Ola, $n! Seja bem-vindo";
+    val g = "Ola, $n! Seja bem-vindo!";
     val a = g[g.length -1];
     val b = if (g.startsWith("Ola")) 2 else 3;
     val l = g[g.length -2];
