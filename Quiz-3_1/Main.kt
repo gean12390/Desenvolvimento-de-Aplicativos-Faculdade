@@ -24,8 +24,8 @@ fun main() {
 }
 
 
-// A) A X A X 
+// A) A X A X
 // B) B X A X
-// C) A X B X
-// D)
-// E)
+// C) A X B X   // Resposta certa 
+// D) X A X A
+// E) A B A B
