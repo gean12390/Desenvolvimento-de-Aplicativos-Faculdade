@@ -24,8 +24,8 @@ fun main() {
 }
 
 
-A) A X A X 
-B) B X A X
-C) A X B X
-D)
-E)
+// A) A X A X 
+// B) B X A X
+// C) A X B X
+// D)
+// E)
